@@ -1,0 +1,10 @@
+{
+    "name": "stpronk/wordpress_competa",
+    "authors": [
+        {
+            "name": "Steve Pronk",
+            "email": "steve@competa.com"
+        }
+    ],
+    "require": {}
+}
